@@ -165,3 +165,9 @@ http://10.8.12.11/?src=1&freq=11685&pol=V&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,
 http://10.8.12.11/?src=1&freq=12285&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1,16,17,265,518,646
 #EXTINF:-1 tvg-id="b8052e71201a09cd466e8150feb5ae1f" tvg-chno="606",FreeSports HD
 http://10.8.12.11/?src=1&freq=11426&pol=V&msys=DVBS2&mtype=QPSK&sr=29500&pids=0,1,16,17,259,2313,2314
+#EXTINF:-1 tvg-id="BBCR1.uk"   tvg-chno="700",BBC Radio 1
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls
+#EXTINF:-1 tvg-id="BBCR1X.uk"   tvg-chno="700",BBC Radio 1Xtra
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_1xtra/format/pls.pls
+#EXTINF:-1 tvg-id="BBCR2.uk"   tvg-chno="700",BBC Radio 2
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_two/format/pls.pls
